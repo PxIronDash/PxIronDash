@@ -1,0 +1,6 @@
+config:
+  aws:region: us-west-2
+  S3-Pulumi:data:
+    bucketName: 'sample'
+    iamUserName: 'github-sample'
+    prefix: 's3-sample'
